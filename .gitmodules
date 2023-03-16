@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mlsbm"]
+	path = mlsbm
+	url = https://github.com/carter-allen/mlsbm
+	shallow = true
+	registered = true
